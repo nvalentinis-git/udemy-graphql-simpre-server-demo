@@ -14,4 +14,12 @@ https://www.udemy.com/course/graphql-with-react-course
 
 
 
+## Libs
+
+    - express
+    - express-graphql
+    - graphql
+    - json-server
+
+
 
